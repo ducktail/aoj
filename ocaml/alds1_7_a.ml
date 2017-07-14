@@ -1,7 +1,7 @@
 open Printf
 open Str
 
-type node = {p : int option; cs : int list}
+type node = {p : int option; cs : int list; d : int}
               
 let read_list f =
   split (regexp " +") (read_line ()) |> List.map f
@@ -18,15 +18,26 @@ let type_of_node = function
   | {cs = []} -> "leaf"
   | _ -> "internal node"
 
-let depth_of_node tr n =
-  let rec iter d = function
-      {p = Some x} -> iter (d+1) tr.(x)
-    | _ -> d
-  in iter 0 n
-    
+let find_root tr =
+  let n = Array.length tr in
+  let rec iter i =
+    if i = n then failwith "find_root"
+    else match tr.(i) with
+           {p = None} -> i
+         | _ -> iter (i+1)
+  in iter 0
+
+let set_depth tr r =
+  let rec iter i d =
+    let n = tr.(i) in tr.(i) <- {n with d = d};
+                      match n.cs with
+                        [] -> ()
+                      | l -> List.iter (fun x -> iter x (d+1)) l
+  in iter r 0
+  
 let () =
   let n = read_int () in
-  let tree = Array.make n {p = None; cs = []} in
+  let tree = Array.make n {p = None; cs = []; d = 0} in
   let rec read n =
     if n = 0 then ()
     else begin
@@ -42,8 +53,9 @@ let () =
       end
   in
   read n;
+  begin let r = find_root tree in set_depth tree r end;
   Array.iteri (fun i x -> let pi = int_of_parent x in
                           let sl = string_of_list x.cs in
                           let tn = type_of_node x in
-                          let ln = depth_of_node tree x in
-                          printf "node %d: parent = %d, depth = %d, %s, %s\n" i pi ln tn sl) tree
+                          let dn = x.d in
+                          printf "node %d: parent = %d, depth = %d, %s, %s\n" i pi dn tn sl) tree
