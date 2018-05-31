@@ -1,5 +1,6 @@
 # AIZU ONLINE JUDGE
 
+* [ALDS1](haskell/alds1/alds1.md)
 * [q0000](haskell/vol00/q0000.hs)
 * [q0001](haskell/vol00/q0001.hs)
 * [q0002](haskell/vol00/q0002.hs)
