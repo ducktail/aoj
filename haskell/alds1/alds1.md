@@ -7,3 +7,4 @@
 * [3_D : Areas on the Cross-Section Diagram](alds1_3_d.hs)
 * [4_B : Binary Search](alds1_4_b.hs)
 * [4_D : Allocation](alds1_4_d.hs)
+* [5_A : Exhaustive Search](alds1_5_a.hs)
