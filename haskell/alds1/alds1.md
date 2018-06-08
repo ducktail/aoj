@@ -8,3 +8,4 @@
 * [4_B : Binary Search](alds1_4_b.hs)
 * [4_D : Allocation](alds1_4_d.hs)
 * [5_A : Exhaustive Search](alds1_5_a.hs)
+* [7_C : Tree Walk](alds1_7_c.hs)
