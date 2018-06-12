@@ -10,3 +10,4 @@
 * [5_A : Exhaustive Search](alds1_5_a.hs)
 * [7_C : Tree Walk](alds1_7_c.hs)
 * [7_D : Reconstruction of a Tree](alds1_7_d.hs)
+* [8_A : Binary Search Tree I](alds1_8_a.hs)
