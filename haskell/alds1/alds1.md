@@ -12,3 +12,4 @@
 * [7_D : Reconstruction of a Tree](alds1_7_d.hs)
 * [8_A : Binary Search Tree I](alds1_8_a.hs)
 * [8_B : Binary Search Tree II](alds1_8_b.hs)
+* [8_C : Binary Search Tree III](alds1_8_c.hs)
