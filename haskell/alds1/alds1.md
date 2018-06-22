@@ -14,3 +14,4 @@
 * [8_B : Binary Search Tree II](alds1_8_b.hs)
 * [8_C : Binary Search Tree III](alds1_8_c.hs)
 * [8_D : Treap](alds1_8_d.hs)
+* [11_B : Depth First Search](alds1_11_b.hs)
