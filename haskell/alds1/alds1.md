@@ -16,4 +16,5 @@
 * [8_D : Treap](alds1_8_d.hs)
 * [11_B : Depth First Search](alds1_11_b.hs)
 * [11_C : Breadth First Search](alds1_11_c.hs)
+* [11_D : Connected Components](alds1_11_d.hs)
 
