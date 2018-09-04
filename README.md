@@ -12,3 +12,4 @@
 * [Volume 12](haskell/vol12/vol12.md)
 * [Volume 13](haskell/vol13/vol13.md)
 * [Volume 15](haskell/vol15/vol15.md)
+* [Volume 16](haskell/vol16/vol16.md)
