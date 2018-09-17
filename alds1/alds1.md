@@ -1,0 +1,20 @@
+# ALDS1 アルゴリズムとデータ構造入門
+
+* [1_A : Insertion Sort (haskell)](haskell/alds1_1_a.hs)
+* [3_A : Stack (haskell)](haskell/alds1_3_a.hs)
+* [3_B : Queue (haskell)](haskell/alds1_3_b.hs)
+* [3_C : Doubly Linked List (haskell)](haskell/alds1_3_c.hs)
+* [3_D : Areas on the Cross-Section Diagram (haskell)](haskell/alds1_3_d.hs)
+* [4_B : Binary Search (haskell)](haskell/alds1_4_b.hs)
+* [4_D : Allocation (haskell)](haskell/alds1_4_d.hs)
+* [5_A : Exhaustive Search (haskell)](haskell/alds1_5_a.hs)
+* [7_C : Tree Walk (haskell)](haskell/alds1_7_c.hs)
+* [7_D : Reconstruction of a Tree (haskell)](haskell/alds1_7_d.hs)
+* [8_A : Binary Search Tree I (haskell)](haskell/alds1_8_a.hs)
+* [8_B : Binary Search Tree II (haskell)](haskell/alds1_8_b.hs)
+* [8_C : Binary Search Tree III (haskell)](haskell/alds1_8_c.hs)
+* [8_D : Treap (haskell)](haskell/alds1_8_d.hs)
+* [11_B : Depth First Search (haskell)](haskell/alds1_11_b.hs)
+* [11_C : Breadth First Search (haskell)](haskell/alds1_11_c.hs)
+* [11_D : Connected Components (haskell)](haskell/alds1_11_d.hs)
+
