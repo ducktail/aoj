@@ -1,6 +1,11 @@
 # ALDS1 アルゴリズムとデータ構造入門
 
-* [1_A : Insertion Sort (haskell)](haskell/alds1_1_a.hs)
+* [1_A : Insertion Sort]
+** [haskell](haskell/alds1_1_a.hs)
+** [ocaml](ocaml/alds1_1_a.ml)
+* [1_B : Greatest Common Divisor (ocaml)](ocaml/alds1_3_b.ml)
+* [1_C : Prime Numbers (ocaml)](ocaml/alds1_3_b.ml)
+* [1_D : Maximum Profit (ocaml)](ocaml/alds1_3_b.ml)
 * [3_A : Stack (haskell)](haskell/alds1_3_a.hs)
 * [3_B : Queue (haskell)](haskell/alds1_3_b.hs)
 * [3_C : Doubly Linked List (haskell)](haskell/alds1_3_c.hs)
