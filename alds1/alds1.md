@@ -1,15 +1,27 @@
 # ALDS1 アルゴリズムとデータ構造入門
 
-* [1_A : Insertion Sort]
-** [haskell](haskell/alds1_1_a.hs)
-** [ocaml](ocaml/alds1_1_a.ml)
+* 1_A : Insertion Sort
+    * [haskell](haskell/alds1_1_a.hs)
+    * [ocaml](ocaml/alds1_1_a.ml)
 * [1_B : Greatest Common Divisor (ocaml)](ocaml/alds1_3_b.ml)
 * [1_C : Prime Numbers (ocaml)](ocaml/alds1_3_b.ml)
 * [1_D : Maximum Profit (ocaml)](ocaml/alds1_3_b.ml)
-* [3_A : Stack (haskell)](haskell/alds1_3_a.hs)
-* [3_B : Queue (haskell)](haskell/alds1_3_b.hs)
-* [3_C : Doubly Linked List (haskell)](haskell/alds1_3_c.hs)
-* [3_D : Areas on the Cross-Section Diagram (haskell)](haskell/alds1_3_d.hs)
+* [2_A : Bubble Sort (ocaml)](ocaml/alds1_2_a.ml)
+* [2_B : Selection Sort (ocaml)](ocaml/alds1_2_b.ml)
+* [2_C : Stable Sort (ocaml)](ocaml/alds1_2_c.ml)
+* [2_D : Shell Sort (ocaml)](ocaml/alds1_2_d.ml)
+* 3_A : Stack
+    * [haskell](haskell/alds1_3_a.hs)
+    * [ocaml](ocaml/alds1_3_a.ml)
+* 3_B : Queue
+    * [haskell](haskell/alds1_3_b.hs)
+    * [ocaml](ocaml/alds1_3_b.ml)
+* 3_C : Doubly Linked List
+    * [haskell](haskell/alds1_3_c.hs)
+    * [ocaml](ocaml/alds1_3_c.ml)
+* 3_D : Areas on the Cross-Section Diagram
+    * [haskell](haskell/alds1_3_d.hs)
+    * [ocaml](ocaml/alds1_3_d.ml)
 * [4_B : Binary Search (haskell)](haskell/alds1_4_b.hs)
 * [4_D : Allocation (haskell)](haskell/alds1_4_d.hs)
 * [5_A : Exhaustive Search (haskell)](haskell/alds1_5_a.hs)
