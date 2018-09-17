@@ -22,9 +22,22 @@
 * 3_D : Areas on the Cross-Section Diagram
     * [haskell](haskell/alds1_3_d.hs)
     * [ocaml](ocaml/alds1_3_d.ml)
-* [4_B : Binary Search (haskell)](haskell/alds1_4_b.hs)
-* [4_D : Allocation (haskell)](haskell/alds1_4_d.hs)
-* [5_A : Exhaustive Search (haskell)](haskell/alds1_5_a.hs)
+* [4_A : Linear Search (ocaml)](ocaml/alds1_4_a.ml)
+* 4_B : Binary Search
+    * [haskell](haskell/alds1_4_b.hs)
+    * [ocaml](ocaml/alds1_4_b.ml)
+* [4_C : Dictionary (ocaml)](ocaml/alds1_4_c.ml)
+* 4_D : Allocation
+    * [haskell](haskell/alds1_4_d.hs)
+    * [ocaml](ocaml/alds1_4_d.ml)
+* 5_A : Exhaustive Search
+    * [haskell](haskell/alds1_5_a.hs)
+    * [ocaml](ocaml/alds1_5_a.ml)
+* [5_B : Merge Sort (ocaml)](ocaml/alds1_5_b.ml)
+* [5_C : Koch Curve (ocaml)](ocaml/alds1_5_c.ml)
+* [6_A : Counting Sort (ocaml)](ocaml/alds1_6_a.ml)
+* [6_B : Partition (ocaml)](ocaml/alds1_6_b.ml)
+* [6_C : Quick Sort (ocaml)](ocaml/alds1_6_c.ml)
 * [7_C : Tree Walk (haskell)](haskell/alds1_7_c.hs)
 * [7_D : Reconstruction of a Tree (haskell)](haskell/alds1_7_d.hs)
 * [8_A : Binary Search Tree I (haskell)](haskell/alds1_8_a.hs)
