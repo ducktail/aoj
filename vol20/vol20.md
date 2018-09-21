@@ -7,3 +7,4 @@
 * [q2013 (haskell)](haskell/q2013.hs)
 * [q2015 (rust)](rust/q2015.rs)
 * [q2018 (haskell)](haskell/q2018.hs)
+* [q2019 (haskell)](haskell/q2019.hs)
