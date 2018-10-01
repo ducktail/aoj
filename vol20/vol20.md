@@ -13,3 +13,4 @@
 * [q2039 (rust)](rust/q2039.rs)
 * [q2048 (haskell)](haskell/q2048.hs)
 * [q2049 (rust)](rust/q2049.rs)
+* [q2079 (haskell)](haskell/q2079.hs)
