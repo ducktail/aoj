@@ -6,3 +6,4 @@
 * [q2103 (haskell)](haskell/q2103.hs)
 * [q2104 (haskell)](haskell/q2104.hs)
 * [q2149 (haskell)](haskell/q2149.hs)
+* [q2155 (haskell)](haskell/q2155.hs)
