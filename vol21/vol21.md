@@ -11,3 +11,4 @@
 * [q2186 (haskell)](haskell/q2186.hs)
 * [q2187 (haskell)](haskell/q2187.hs)
 * [q2197 (haskell)](haskell/q2197.hs)
+* [q2198 (haskell)](haskell/q2198.hs)
