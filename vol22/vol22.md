@@ -5,3 +5,4 @@
 * [q2216 (haskell)](haskell/q2216.hs)
 * [q2217 (haskell)](haskell/q2217.hs)
 * [q2242 (haskell)](haskell/q2242.hs)
+* [q2252 (haskell)](haskell/q2252.hs)
