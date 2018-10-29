@@ -8,3 +8,4 @@
 * [q2252 (haskell)](haskell/q2252.hs)
 * [q2253 (haskell)](haskell/q2253.hs)
 * [q2259 (haskell)](haskell/q2259.hs)
+* [q2260 (haskell)](haskell/q2260.hs)
