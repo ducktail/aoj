@@ -18,3 +18,4 @@
 * [Volume 22](vol22/vol22.md)
 * [Volume 23](vol23/vol23.md)
 * [Volume 24](vol24/vol24.md)
+* [Volume 25](vol25/vol25.md)

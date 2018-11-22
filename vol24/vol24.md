@@ -10,3 +10,4 @@
 * [q2424 (haskell)](haskell/q2424.hs)
 * [q2440 (haskell)](haskell/q2440.hs)
 * [q2489 (haskell)](haskell/q2489.hs)
+* [q2490 (haskell)](haskell/q2490.hs)
