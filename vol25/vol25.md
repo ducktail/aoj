@@ -7,3 +7,4 @@
 * [q2582 (haskell)](haskell/q2582.hs)
 * [q2583 (haskell)](haskell/q2583.hs)
 * [q2584 (haskell)](haskell/q2584.hs)
+* [q2589 (haskell)](haskell/q2589.hs)
