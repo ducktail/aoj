@@ -37,6 +37,7 @@
 * [q0034 (haskell)](haskell/q0034.hs)
 * [q0035 (haskell)](haskell/q0035.hs)
 * [q0036 (haskell)](haskell/q0036.hs)
+* [q0037 (haskell)](haskell/q0037.hs)
 * [q0038 (haskell)](haskell/q0038.hs)
 * [q0039 (haskell)](haskell/q0039.hs)
 * [q0040 (haskell)](haskell/q0040.hs)
