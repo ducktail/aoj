@@ -84,6 +84,7 @@
 * [q0087 (haskell)](haskell/q0087.hs)
 * [q0088 (haskell)](haskell/q0088.hs)
 * [q0089 (haskell)](haskell/q0089.hs)
+* [q0092 (rust)](rust/q0092.rs)
 * [q0093 (haskell)](haskell/q0093.hs)
 * [q0094 (haskell)](haskell/q0094.hs)
 * [q0095 (haskell)](haskell/q0095.hs)
