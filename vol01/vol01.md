@@ -9,6 +9,7 @@
 * [q0106 (haskell)](haskell/q0106.hs)
 * [q0107 (haskell)](haskell/q0107.hs)
 * [q0108 (haskell)](haskell/q0108.hs)
+* [q0109 (haskell)](haskell/q0109.hs)
 * [q0110 (haskell)](haskell/q0110.hs)
 * [q0111 (haskell)](haskell/q0111.hs)
 * [q0112 (haskell)](haskell/q0112.hs)
