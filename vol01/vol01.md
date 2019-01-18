@@ -23,6 +23,7 @@
 * [q0123 (haskell)](haskell/q0123.hs)
 * [q0124 (haskell)](haskell/q0124.hs)
 * [q0125 (haskell)](haskell/q0125.hs)
+* [q0126 (rust)](rust/q0126.rs)
 * [q0127 (haskell)](haskell/q0127.hs)
 * [q0128 (haskell)](haskell/q0128.hs)
 * [q0130 (haskell)](haskell/q0130.hs)
