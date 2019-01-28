@@ -42,6 +42,7 @@
 * [q0143 (haskell)](haskell/q0143.hs)
 * [q0144 (rust)](rust/q0144.rs)
 * [q0145 (rust)](rust/q0145.rs)
+* [q0146 (rust)](rust/q0146.rs)
 * [q0148 (haskell)](haskell/q0148.hs)
 * [q0149 (haskell)](haskell/q0149.hs)
 * [q0150 (haskell)](haskell/q0150.hs)
