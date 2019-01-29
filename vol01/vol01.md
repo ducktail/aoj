@@ -48,6 +48,7 @@
 * [q0150 (haskell)](haskell/q0150.hs)
 * [q0151 (haskell)](haskell/q0151.hs)
 * [q0152 (haskell)](haskell/q0152.hs)
+* [q0153 (haskell)](haskell/q0153.hs)
 * [q0154 (haskell)](haskell/q0154.hs)
 * [q0158 (haskell)](haskell/q0158.hs)
 * [q0159 (haskell)](haskell/q0159.hs)
