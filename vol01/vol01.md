@@ -61,6 +61,7 @@
 * [q0163 (haskell)](haskell/q0163.hs)
 * [q0164 (haskell)](haskell/q0164.hs)
 * [q0165 (rust)](rust/q0165.rs)
+* [q0166 (haskell)](haskell/q0166.hs)
 * [q0167 (haskell)](haskell/q0167.hs)
 * [q0168 (haskell)](haskell/q0168.hs)
 * [q0169 (haskell)](haskell/q0169.hs)
