@@ -70,6 +70,7 @@
 * [q0175 (haskell)](haskell/q0175.hs)
 * [q0176 (haskell)](haskell/q0176.hs)
 * [q0177 (haskell)](haskell/q0177.hs)
+* [q0179 (haskell)](haskell/q0179.hs)
 * [q0180 (haskell)](haskell/q0180.hs)
 * [q0181 (haskell)](haskell/q0181.hs)
 * [q0183 (haskell)](haskell/q0183.hs)
