@@ -74,6 +74,7 @@
 * [q0180 (haskell)](haskell/q0180.hs)
 * [q0181 (haskell)](haskell/q0181.hs)
 * [q0183 (haskell)](haskell/q0183.hs)
+* [q0185 (rust)](rust/q0185.rs)
 * [q0188 (haskell)](haskell/q0188.hs)
 * [q0189 (ocaml)](ocaml/q0189.ml)
 * [q0195 (haskell)](haskell/q0195.hs)
