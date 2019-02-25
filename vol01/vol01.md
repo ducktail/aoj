@@ -84,3 +84,4 @@
 * [q0196 (haskell)](haskell/q0196.hs)
 * [q0197 (haskell)](haskell/q0197.hs)
 * [q0198 (haskell)](haskell/q0198.hs)
+* [q0199 (rust)](rust/q0199.rs)
