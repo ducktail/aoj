@@ -2,6 +2,7 @@
 
 * [q0200 (ocaml)](ocaml/q0200.ml)
 * [q0201 (haskell)](haskell/q0201.hs)
+* [q0202 (rust)](rust/q0201.rs)
 * [q0205 (haskell)](haskell/q0205.hs)
 * [q0206 (haskell)](haskell/q0206.hs)
 * [q0208 (haskell)](haskell/q0208.hs)
