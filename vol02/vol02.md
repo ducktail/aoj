@@ -6,6 +6,7 @@
 * [q0203 (rust)](rust/q0203.rs)
 * [q0205 (haskell)](haskell/q0205.hs)
 * [q0206 (haskell)](haskell/q0206.hs)
+* [q0207 (rust)](rust/q0207.rs)
 * [q0208 (haskell)](haskell/q0208.hs)
 * [q0216 (haskell)](haskell/q0216.hs)
 * [q0217 (haskell)](haskell/q0217.hs)
