@@ -13,6 +13,7 @@
 * [q0218 (haskell)](haskell/q0218.hs)
 * [q0219 (haskell)](haskell/q0219.hs)
 * [q0220 (haskell)](haskell/q0220.hs)
+* [q0221 (haskell)](haskell/q0221.hs)
 * [q0226 (haskell)](haskell/q0226.hs)
 * [q0227 (haskell)](haskell/q0227.hs)
 * [q0228 (haskell)](haskell/q0228.hs)
