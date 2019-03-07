@@ -8,6 +8,7 @@
 * [q0206 (haskell)](haskell/q0206.hs)
 * [q0207 (rust)](rust/q0207.rs)
 * [q0208 (haskell)](haskell/q0208.hs)
+* [q0211 (haskell)](haskell/q0211.hs)
 * [q0216 (haskell)](haskell/q0216.hs)
 * [q0217 (haskell)](haskell/q0217.hs)
 * [q0218 (haskell)](haskell/q0218.hs)
