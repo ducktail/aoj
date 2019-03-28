@@ -1,5 +1,6 @@
 # Volume 3
 
+* [q0300 (rust)](rust/q0300.rs)
 * [q0305 (haskell)](haskell/q0305.hs)
 * [q0306 (haskell)](haskell/q0306.hs)
 * [q0315 (haskell)](haskell/q0315.hs)
