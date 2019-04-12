@@ -11,6 +11,7 @@
 * [q0511 (haskell)](haskell/q0511.hs)
 * [q0512 (haskell)](haskell/q0512.hs)
 * [q0513 (haskell)](haskell/q0513.hs)
+* [q0514 (haskell)](haskell/q0514.hs)
 * [q0515 (haskell)](haskell/q0515.hs)
 * [q0516 (haskell)](haskell/q0516.hs)
 * [q0520 (haskell)](haskell/q0520.hs)
