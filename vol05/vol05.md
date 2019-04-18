@@ -21,6 +21,7 @@
 * [q0522 (haskell)](haskell/q0522.hs)
 * [q0523 (haskell)](haskell/q0523.hs)
 * [q0524 (haskell)](haskell/q0524.hs)
+* [q0525 (rust)](rust/q0525.rs)
 * [q0527 (haskell)](haskell/q0527.hs)
 * [q0532 (haskell)](haskell/q0532.hs)
 * [q0533 (haskell)](haskell/q0533.hs)
