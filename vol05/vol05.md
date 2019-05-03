@@ -33,6 +33,7 @@
 * [q0535 (rust)](rust/q0535.rs)
 * [q0538 (haskell)](haskell/q0538.hs)
 * [q0539 (haskell)](haskell/q0539.hs)
+* [q0540 (rust)](rust/q0540.rs)
 * [q0543 (haskell)](haskell/q0543.hs)
 * [q0544 (haskell)](haskell/q0544.hs)
 * [q0545 (haskell)](haskell/q0545.hs)
