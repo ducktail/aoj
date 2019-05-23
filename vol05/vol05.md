@@ -66,6 +66,9 @@
 * [q0587 (haskell)](haskell/q0587.hs)
 * [q0588 (haskell)](haskell/q0588.hs)
 * [q0589 (haskell)](haskell/q0589.hs)
+* q0590
+    * [haskell](haskell/q0590.hs)
+    * [rust](rust/q0590.rs)
 * [q0592 (haskell)](haskell/q0592.hs)
 * [q0593 (haskell)](haskell/q0593.hs)
 * [q0594 (haskell)](haskell/q0594.hs)
