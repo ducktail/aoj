@@ -1,6 +1,7 @@
 # AIZU ONLINE JUDGE
 
 * [ALDS1](alds1/alds1.md)
+* [ITP2](itp2/itp2.md)
 * [Volume 0](vol00/vol00.md)
 * [Volume 1](vol01/vol01.md)
 * [Volume 2](vol02/vol02.md)
