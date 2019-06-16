@@ -1,5 +1,6 @@
 # Volume 6
 
+* [q0603 (haskell)](haskell/q0603.hs)
 * [q0608 (haskell)](haskell/q0608.hs)
 * [q0609 (haskell)](haskell/q0609.hs)
 * [q0610 (haskell)](haskell/q0610.hs)
