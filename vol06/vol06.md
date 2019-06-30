@@ -6,6 +6,7 @@
 * [q0610 (haskell)](haskell/q0610.hs)
 * [q0611 (rust)](rust/q0611.rs)
 * [q0612 (rust)](rust/q0612.rs)
+* [q0614 (rust)](rust/q0614.rs)
 * [q0619 (haskell)](haskell/q0619.hs)
 * [q0620 (haskell)](haskell/q0620.hs)
 * [q0621 (haskell)](haskell/q0621.hs)
