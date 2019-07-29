@@ -12,6 +12,7 @@
 * [q1018 (haskell)](haskell/q1018.hs)
 * [q1019 (haskell)](haskell/q1019.hs)
 * [q1020 (haskell)](haskell/q1020.hs)
+* [q1021 (haskell)](haskell/q1021.hs)
 * [q1027 (haskell)](haskell/q1027.hs)
 * [q1029 (haskell)](haskell/q1029.hs)
 * [q1035 (haskell)](haskell/q1035.hs)
