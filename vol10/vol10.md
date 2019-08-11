@@ -16,6 +16,7 @@
 * [q1027 (haskell)](haskell/q1027.hs)
 * [q1028 (rust)](rust/q1028.rs)
 * [q1029 (haskell)](haskell/q1029.hs)
+* [q1030 (rust)](rust/q1030.rs)
 * [q1035 (haskell)](haskell/q1035.hs)
 * [q1036 (haskell)](haskell/q1036.hs)
 * [q1041 (haskell)](haskell/q1041.hs)
