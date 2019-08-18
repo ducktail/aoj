@@ -26,6 +26,7 @@
 * [q1045 (haskell)](haskell/q1045.hs)
 * [q1051 (haskell)](haskell/q1051.hs)
 * [q1052 (haskell)](haskell/q1052.hs)
+* [q1054 (haskell)](haskell/q1054.hs)
 * [q1062 (haskell)](haskell/q1062.hs)
 * [q1072 (haskell)](haskell/q1072.hs)
 * [q1074 (haskell)](haskell/q1074.hs)
