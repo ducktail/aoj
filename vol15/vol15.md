@@ -2,6 +2,7 @@
 
 * [q1500 (haskell)](haskell/q1500.hs)
 * [q1501 (haskell)](haskell/q1501.hs)
+* [q1502 (rust)](rust/q1502.rs)
 * [q1509 (haskell)](haskell/q1509.hs)
 * [q1516 (haskell)](haskell/q1516.hs)
 * [q1552 (haskell)](haskell/q1552.hs)
