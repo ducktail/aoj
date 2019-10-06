@@ -2,6 +2,7 @@
 
 * [q2000 (haskell)](haskell/q2000.hs)
 * [q2001 (haskell)](haskell/q2001.hs)
+* [q2005 (rust)](rust/q2005.rs)
 * [q2006 (haskell)](haskell/q2006.hs)
 * [q2007 (haskell)](haskell/q2007.hs)
 * [q2012 (rust)](rust/q2012.rs)
