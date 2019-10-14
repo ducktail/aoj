@@ -5,6 +5,7 @@
 * [q2005 (rust)](rust/q2005.rs)
 * [q2006 (haskell)](haskell/q2006.hs)
 * [q2007 (haskell)](haskell/q2007.hs)
+* [q2011 (rust)](rust/q2011.rs)
 * [q2012 (rust)](rust/q2012.rs)
 * [q2013 (haskell)](haskell/q2013.hs)
 * [q2015 (rust)](rust/q2015.rs)
