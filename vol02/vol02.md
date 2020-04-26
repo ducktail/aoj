@@ -12,6 +12,7 @@
 * [q0210 (ocaml)](ocaml/q0210.ml)
 * [q0211 (haskell)](haskell/q0211.hs)
 * [q0212 (ocaml)](ocaml/q0212.ml)
+* [q0215 (ocaml)](ocaml/q0215.ml)
 * [q0216 (haskell)](haskell/q0216.hs)
 * [q0217 (haskell)](haskell/q0217.hs)
 * [q0218 (haskell)](haskell/q0218.hs)
