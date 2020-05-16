@@ -36,6 +36,7 @@
 * [q0240 (haskell)](haskell/q0240.hs)
 * [q0241 (haskell)](haskell/q0241.hs)
 * [q0242 (haskell)](haskell/q0242.hs)
+* [q0244 (ocaml)](ocaml/q0244.ml)
 * [q0256 (haskell)](haskell/q0256.hs)
 * [q0257 (haskell)](haskell/q0257.hs)
 * [q0258 (haskell)](haskell/q0258.hs)
