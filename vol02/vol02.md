@@ -47,6 +47,7 @@
 * [q0263 (rust)](rust/q0263.rs)
 * [q0266 (haskell)](haskell/q0266.hs)
 * [q0267 (haskell)](haskell/q0267.hs)
+* [q0268 (haskell)](haskell/q0268.hs)
 * [q0270 (rust)](rust/q0270.rs)
 * [q0276 (haskell)](haskell/q0276.hs)
 * [q0277 (haskell)](haskell/q0277.hs)
