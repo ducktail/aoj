@@ -33,3 +33,4 @@
 * [q0383 (haskell)](haskell/q0383.hs)
 * [q0384 (haskell)](haskell/q0384.hs)
 * [q0385 (rust)](rust/q0385.rs)
+* [q0392 (haskell)](haskell/q0392.hs)
