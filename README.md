@@ -6,6 +6,7 @@
 * [Volume 1](vol01/vol01.md)
 * [Volume 2](vol02/vol02.md)
 * [Volume 3](vol03/vol03.md)
+* [Volume 4](vol04/vol04.md)
 * [Volume 5](vol05/vol05.md)
 * [Volume 6](vol06/vol06.md)
 * [Volume 10](vol10/vol10.md)
