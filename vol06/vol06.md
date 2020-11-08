@@ -19,3 +19,4 @@
 * [q0643 (rust)](rust/q0643.rs)
 * [q0647 (haskell)](haskell/q0647.hs)
 * [q0652 (haskell)](haskell/q0652.hs)
+* [q0653 (haskell)](haskell/q0653.hs)
