@@ -30,6 +30,7 @@
 * [q1062 (haskell)](haskell/q1062.hs)
 * [q1072 (haskell)](haskell/q1072.hs)
 * [q1074 (haskell)](haskell/q1074.hs)
+* [q1077 (haskell)](haskell/q1077.hs)
 * [q1084 (haskell)](haskell/q1084.hs)
 * [q1085 (haskell)](haskell/q1085.hs)
 * [q1091 (haskell)](haskell/q1091.hs)
