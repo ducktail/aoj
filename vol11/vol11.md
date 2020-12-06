@@ -2,6 +2,7 @@
 
 * [q1100 (haskell)](haskell/q1100.hs)
 * [q1104 (haskell)](haskell/q1104.hs)
+* [q1105 (haskell)](haskell/q1105.hs)
 * [q1106 (haskell)](haskell/q1106.hs)
 * [q1124 (haskell)](haskell/q1124.hs)
 * [q1125 (haskell)](haskell/q1125.hs)
