@@ -7,6 +7,7 @@
 * [q1124 (haskell)](haskell/q1124.hs)
 * [q1125 (haskell)](haskell/q1125.hs)
 * [q1126 (haskell)](haskell/q1126.hs)
+* [q1127 (rust)](rust/q1127.rs)
 * [q1129 (haskell)](haskell/q1129.hs)
 * [q1130 (haskell)](haskell/q1130.hs)
 * [q1135 (rust)](rust/q1135.rs)
