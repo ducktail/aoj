@@ -14,6 +14,7 @@
 * [q1130 (haskell)](haskell/q1130.hs)
 * [q1131 (rust)](rust/q1131.rs)
 * [q1135 (rust)](rust/q1135.rs)
+* [q1136 (haskell)](haskell/q1136.hs)
 * [q1137 (haskell)](haskell/q1137.hs)
 * [q1141 (haskell)](haskell/q1141.hs)
 * [q1142 (haskell)](haskell/q1142.hs)
