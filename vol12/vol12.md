@@ -8,4 +8,5 @@
 * [q1257 (haskell)](haskell/q1257.hs)
 * [q1275 (rust)](rust/q1275.rs)
 * [q1276 (haskell)](haskell/q1276.hs)
+* [q1277 (haskell)](haskell/q1277.hs)
 * [q1285 (haskell)](haskell/q1285.hs)
