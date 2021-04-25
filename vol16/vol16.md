@@ -12,3 +12,4 @@
 * [q1618 (rust)](rust/q1618.rs)
 * [q1624 (rust)](rust/q1624.rs)
 * [q1625 (rust)](rust/q1625.rs)
+* [q1626 (rust)](rust/q1626.rs)
