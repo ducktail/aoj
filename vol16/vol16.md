@@ -13,3 +13,4 @@
 * [q1624 (rust)](rust/q1624.rs)
 * [q1625 (rust)](rust/q1625.rs)
 * [q1626 (rust)](rust/q1626.rs)
+* [q1632 (haskell)](haskell/q1632.hs)
