@@ -6,5 +6,6 @@
 * [q0407 (haskell)](haskell/q0407.hs)
 * [q0408 (haskell)](haskell/q0408.hs)
 * [q0409 (haskell)](haskell/q0409.hs)
+* [q0416 (haskell)](haskell/q0416.hs)
 * [q0440 (haskell)](haskell/q0440.hs)
 * [q0441 (haskell)](haskell/q0441.hs)
