@@ -8,5 +8,6 @@
 * [q0409 (haskell)](haskell/q0409.hs)
 * [q0416 (haskell)](haskell/q0416.hs)
 * [q0417 (rust)](rust/q0417.rs)
+* [q0418 (haskell)](haskell/q0418.hs)
 * [q0440 (haskell)](haskell/q0440.hs)
 * [q0441 (haskell)](haskell/q0441.hs)
