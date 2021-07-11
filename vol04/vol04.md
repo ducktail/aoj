@@ -13,5 +13,6 @@
 * [q0418 (haskell)](haskell/q0418.hs)
 * [q0419 (haskell)](haskell/q0419.hs)
 * [q0428 (haskell)](haskell/q0428.hs)
+* [q0429 (haskell)](haskell/q0429.hs)
 * [q0440 (haskell)](haskell/q0440.hs)
 * [q0441 (haskell)](haskell/q0441.hs)
