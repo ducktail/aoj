@@ -17,5 +17,7 @@
 * [q0430 (haskell)](haskell/q0430.hs)
 * [q0431 (haskell)](haskell/q0431.hs)
 * [q0432 (haskell)](haskell/q0432.hs)
+* [q0433 (haskell)](haskell/q0433.hs)
 * [q0440 (haskell)](haskell/q0440.hs)
 * [q0441 (haskell)](haskell/q0441.hs)
+* [q0442 (haskell)](haskell/q0442.hs)
