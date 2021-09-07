@@ -25,5 +25,5 @@
 * [Volume 27](vol27/vol27.md)
 * [Volume 28](vol28/vol28.md)
 * [Volume 30](vol30/vol30.md)
-* [Volume 32](vol30/vol32.md)
-* [Volume 35](vol30/vol35.md)
+* [Volume 32](vol32/vol32.md)
+* [Volume 35](vol35/vol35.md)
