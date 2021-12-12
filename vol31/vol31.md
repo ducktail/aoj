@@ -12,3 +12,4 @@
 * [q3126 (haskell)](haskell/q3126.hs)
 * [q3127 (haskell)](haskell/q3127.hs)
 * [q3128 (haskell)](haskell/q3128.hs)
+* [q3130 (haskell)](haskell/q3130.hs)
