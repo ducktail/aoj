@@ -17,3 +17,4 @@
 * [q3151 (haskell)](haskell/q3151.hs)
 * [q3164 (haskell)](haskell/q3164.hs)
 * [q3172 (haskell)](haskell/q3172.hs)
+* [q3193 (haskell)](haskell/q3193.hs)
