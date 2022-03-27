@@ -1,6 +1,7 @@
 # Volume 25
 
 * [q2501 (haskell)](haskell/q2501.hs)
+* [q2503 (rust)](rust/q2503.rs)
 * [q2508 (haskell)](haskell/q2508.hs)
 * [q2522 (haskell)](haskell/q2522.hs)
 * [q2529 (haskell)](haskell/q2529.hs)
