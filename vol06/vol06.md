@@ -39,3 +39,4 @@
 * [q0688 (haskell)](haskell/q0688.hs)
 * [q0689 (haskell)](haskell/q0689.hs)
 * [q0690 (haskell)](haskell/q0690.hs)
+* [q0691 (haskell)](haskell/q0691.hs)
