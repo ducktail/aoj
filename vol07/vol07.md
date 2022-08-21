@@ -7,3 +7,4 @@
 * [q0708 (haskell)](haskell/q0708.hs)
 * [q0709 (haskell)](haskell/q0709.hs)
 * [q0710 (haskell)](haskell/q0710.hs)
+* [q0711 (haskell)](haskell/q0711.hs)
