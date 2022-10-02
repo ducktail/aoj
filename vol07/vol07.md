@@ -13,3 +13,4 @@
 * [q0714 (haskell)](haskell/q0714.hs)
 * [q0715 (haskell)](haskell/q0715.hs)
 * [q0716 (haskell)](haskell/q0716.hs)
+* [q0717 (haskell)](haskell/q0717.hs)
