@@ -27,6 +27,7 @@
 * [q0665 (haskell)](haskell/q0665.hs)
 * [q0666 (haskell)](haskell/q0666.hs)
 * [q0667 (haskell)](haskell/q0667.hs)
+* [q0668 (haskell)](haskell/q0668.hs)
 * [q0669 (haskell)](haskell/q0669.hs)
 * [q0670 (haskell)](haskell/q0670.hs)
 * [q0671 (haskell)](haskell/q0671.hs)
