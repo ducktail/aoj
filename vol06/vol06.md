@@ -32,6 +32,7 @@
 * [q0670 (haskell)](haskell/q0670.hs)
 * [q0671 (haskell)](haskell/q0671.hs)
 * [q0672 (ocaml)](ocaml/q0672.ml)
+* [q0674 (ocaml)](ocaml/q0674.ml)
 * [q0682 (haskell)](haskell/q0682.hs)
 * [q0683 (haskell)](haskell/q0683.hs)
 * [q0684 (haskell)](haskell/q0684.hs)
