@@ -28,3 +28,4 @@
 * [q0457 (haskell)](haskell/q0457.hs)
 * [q0479 (haskell)](haskell/q0479.hs)
 * [q0480 (haskell)](haskell/q0480.hs)
+* [q0481 (haskell)](haskell/q0481.hs)
