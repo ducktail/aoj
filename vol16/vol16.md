@@ -15,4 +15,5 @@
 * [q1626 (rust)](rust/q1626.rs)
 * [q1632 (haskell)](haskell/q1632.hs)
 * [q1640 (haskell)](haskell/q1640.hs)
+* [q1641 (haskell)](haskell/q1641.hs)
 * [q1648 (ocaml)](ocaml/q1648.ml)
