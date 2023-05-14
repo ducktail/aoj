@@ -18,3 +18,4 @@
 * [q1640 (haskell)](haskell/q1640.hs)
 * [q1641 (haskell)](haskell/q1641.hs)
 * [q1648 (ocaml)](ocaml/q1648.ml)
+* [q1656 (haskell)](haskell/q1656.hs)
